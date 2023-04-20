@@ -1,6 +1,6 @@
 {
     "name": "@gridexprotocol/periphery",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "author": "Gridex",
     "description": "The periphery contracts of the core contracts for Gridex",
     "license": "GPL-2.0-or-later",
